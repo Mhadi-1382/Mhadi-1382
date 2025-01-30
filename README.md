@@ -4,8 +4,9 @@
 
 - I'm currently working with front end and back end technologies (HTML, CSS, SCSS, JS, PYTHON, FLASK, SQL, GITHUB, GIT).
 - Currently learning front-end web development and Python.
-- Ways to contact me:
-- <a href="mailto:mrabiee175@gmail.com">mrabiee175@gmail.com</a>
+
+Ways to contact me:
+- <a href="mailto:mrabiee175@gmail.com">Email</a>
 - <a href="https://www.linkedin.com/in/mohammad-mahdi-rabiei-21912b336?trk=contact-info">LinkedIn</a>
 - <a href="https://dribbble.com/Mahdi_Rabiee">Dribbble</a>
 
