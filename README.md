@@ -12,5 +12,5 @@ Ways to contact me:
 
 <br>
 
-[![Github Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhadi-1382&layout=compact&theme=dark)](https://github.com/Mhadi-1382/github-readme-stats)
+[![Github Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhadi-1382&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=false)](https://github.com/Mhadi-1382/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api?username=Mhadi-1382&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
