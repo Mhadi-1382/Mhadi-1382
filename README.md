@@ -2,7 +2,7 @@
 
 **Designer HTML5, CSS3, JS (Front End developer), PYTHON (Back End developer) and Graphic designer.**
 
-- I'm currently working with front end and back end technologies (HTML, CSS, SCSS, JS, PYTHON, FLASK, SQL, GITHUB, GIT).
+- I'm currently working with front end and back end technologies (HTML, CSS, SCSS, JS, PYTHON, FLASK, DJANGO, SQL, GITHUB, GIT).
 - Currently learning front-end web development and Python.
 
 Ways to contact me:
