@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-**Designer HTML5, CSS3, JS (Front End developer), PYTHON (Back End developer) and Graphic designer.**
+**Front End developer, Back End developer and Graphic designer.**
 
-- I'm currently working with front end and back end technologies (HTML, CSS, SCSS, TAILWINDCSS, JS, NEXT.JS, PYTHON, FLASK, DJANGO, SQL, GITHUB, GIT).
-- Currently learning front-end web development and Python.
+- I'm currently working with front end and back end technologies (HTML5, CSS3, SCSS, TAILWINDCSS, JS, NEXT.JS, PYTHON, FLASK, DJANGO, FASTAPI, SQL, GITHUB, GIT).
 
 Ways to contact me:
 - <a href="mailto:mrabiee175@gmail.com">Email</a>
