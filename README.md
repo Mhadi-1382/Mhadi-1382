@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-**Front End developer, Back End developer and Graphic designer.**
+**Fullstack Developer and Graphic Designer.**
 
-- I'm currently working with front end and back end technologies (HTML5, CSS3, SCSS, TAILWINDCSS, JS, NEXT.JS, PYTHON, FLASK, DJANGO, FASTAPI, SQL, GITHUB, GIT).
+#### Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3&logoColor=white) ![TAILWINDCSS](https://img.shields.io/badge/TAILWINDCSS-333?style=for-the-badge&logo=tailwindcss&logoColor=white) ![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) ![DJANGO](https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white) ![FLASK](https://img.shields.io/badge/FLASK-333?style=for-the-badge&logo=flask&logoColor=white) ![FASTAPI](https://img.shields.io/badge/FASTAPI-333?style=for-the-badge&logo=fastapi&logoColor=white) ![JS](https://img.shields.io/badge/JS-333?style=for-the-badge&logo=js&logoColor=white) ![NEXT.JS](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-333?style=for-the-badge&logo=sql&logoColor=white)
 
-Ways to contact me:
-- <a href="mailto:mrabiee175@gmail.com">Email</a>
-- <a href="https://www.linkedin.com/in/mohammad-mahdi-rabiei-21912b336?trk=contact-info">LinkedIn</a>
-- <a href="https://dribbble.com/Mahdi_Rabiee">Dribbble</a>
+#### Ways to contact me:
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrabiee175@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammad-mahdi-rabiei-21912b336?trk=contact-info) 
 
 <br>
 
